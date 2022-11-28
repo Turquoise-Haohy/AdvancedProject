@@ -9,8 +9,8 @@ The process would be arrange as following:
 * Test Status
 
 ## Methods
-Methodology: Constructivism, Psychogeography, Poetic Coding
-Tools: MachineLearning(StyleGAN2), Unity(Vuforia), MapBox(GoMap), Blender
+* Methodology: Constructivism, Psychogeography, Poetic Coding
+* Tools: MachineLearning(StyleGAN2), Unity(Vuforia), MapBox(GoMap), Blender
 
 ## Process
 ### Plannning Status
