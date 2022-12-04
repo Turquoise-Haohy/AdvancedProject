@@ -20,11 +20,9 @@ The process would be arrange as following:
 />
 </a>
 
-**Link to Vuforia**
-<a href="https://developer.vuforia.com"></a>
+[Link to Vuforia](https://developer.vuforia.com)
 
-**Link to MapBox**
-<a href="https://www.mapbox.com"></a>
+[Link to MapBox](a href="https://www.mapbox.com)
 
 
 
