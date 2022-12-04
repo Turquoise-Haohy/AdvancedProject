@@ -22,7 +22,7 @@ The process would be arrange as following:
 
 [Link to Vuforia](https://developer.vuforia.com)
 
-[Link to MapBox](a href="https://www.mapbox.com)
+[Link to MapBox](https://www.mapbox.com)
 
 
 
