@@ -41,7 +41,7 @@ The process would be arrange as following:
 
 2. Searching for related literature narration and Projects
 
-<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Prepare/WechatIMG362.jpeg" width="720"></div>
+<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Prepare/WechatIMG362.jpeg" width="540"></div>
 
 ---
 
@@ -68,7 +68,7 @@ Here comes to the result:
 
 ---
 
-<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/StyleGan/mapVI.mp4" width="512"></div>
+https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/StyleGan/mapVI.mp4
 
 
 2. Modeling prototypes in blender
