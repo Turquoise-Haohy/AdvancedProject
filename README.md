@@ -2,6 +2,10 @@
 
 ## Introduction
 
+https://user-images.githubusercontent.com/73295564/205515861-5ccc5d9d-1892-46b5-a94c-493c7c623047.mp4
+
+---
+
 This is the final Advanced Project of Turbi. Here I conclude my one-year practitioning in psychogeography combining machine learning and poetic coding to build an AR experience.
 The process would be arrange as following: 
 * Planning Status( BrainStorm, Information Collection, Resources Collection and filter)
@@ -68,10 +72,15 @@ Here comes to the result:
 
 ---
 
-https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/StyleGan/mapVI.mp4
+
+https://user-images.githubusercontent.com/73295564/205515822-7d3746ff-8317-4990-bf0d-70f5a178e3f7.mp4
+
+---
 
 
 2. Modeling prototypes in blender
+
+
 3. Test AR(Vuforia AR Foundation), Looking for method to embed maps in unity APP.
 4. Building UI/UX prototypes of my AR APP
 5. Complete all the scenes of the Unity App
