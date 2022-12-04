@@ -39,11 +39,9 @@ The process would be arrange as following:
 
 ---
 
-<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Prepare/WechatIMG355.jpeg" width="720"></div>
-
----
-
 2. Searching for related literature narration and Projects
+
+<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Prepare/WechatIMG355.jpeg" width="720"></div>
 
 <div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Prepare/WechatIMG362.jpeg" width="540"></div>
 
@@ -107,13 +105,13 @@ https://user-images.githubusercontent.com/73295564/205516537-f9798dc8-6697-4941-
 
 https://user-images.githubusercontent.com/73295564/205516556-5394adfd-1169-4b9e-83e0-a9c46d8d9780.mp4
 
-
+---
 
 ### Test Status
 1. Usability Test
 
 <div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/3681670189260_.pic.jpg" width="540"></div>
-<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/3681670189273_.pic.jpg" width="540"></div>
+<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/3691670189273_.pic.jpg" width="540"></div>
 
 
 ---
@@ -121,3 +119,4 @@ https://user-images.githubusercontent.com/73295564/205516556-5394adfd-1169-4b9e-
 
 3. Get feedback and make iteration Plan
 
+---
