@@ -11,6 +11,19 @@ The process would be arrange as following:
 ## Methods
 * Methodology: Constructivism, Psychogeography, Poetic Coding
 * Tools: MachineLearning(StyleGAN2), Unity(Vuforia), MapBox(GoMap), Blender
+* Resources: 
+**Link to Colab**
+<a href="https://colab.research.google.com/drive/1AE7N2gNOWuvaPkcjz6VAcDoYZ7inxdwC?usp=sharing">
+<img src="https://colab.research.google.com/assets/colab-badge.svg"
+     alt="Open in Colab"
+/>
+</a>
+**Link to Vuforia**
+<a href="https://developer.vuforia.com"></a>
+**Link to MapBox**
+<a href="https://www.mapbox.com"></a>
+
+
 
 ## Process
 ### Plannning Status
