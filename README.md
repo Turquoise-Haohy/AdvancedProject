@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/73295564/205515822-7d3746ff-8317-4990-
 
 2. Modeling prototypes in blender
 
-<div><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%206.png" width="360">
+<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%206.png" width="360">
 <img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%207.png" width="360">
 <img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%208.png" width="360">
 <img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%209.png" width="360"></div>
@@ -88,9 +88,36 @@ https://user-images.githubusercontent.com/73295564/205515822-7d3746ff-8317-4990-
 ---
 
 3. Test AR(Vuforia AR Foundation), Looking for method to embed maps in unity APP.
-4. Building UI/UX prototypes of my AR APP
-5. Complete all the scenes of the Unity App
+
+
+https://user-images.githubusercontent.com/73295564/205516526-04c76e58-71b6-4f03-bede-b7cc98019f25.mp4
+
+---
+
+5. Building UI/UX prototypes of my AR APP
+
+
+https://user-images.githubusercontent.com/73295564/205516537-f9798dc8-6697-4941-932e-68e3f58a18ef.mp4
+
+---
+
+7. Complete all the scenes and scripts of the Unity App
+
+
+
+https://user-images.githubusercontent.com/73295564/205516556-5394adfd-1169-4b9e-83e0-a9c46d8d9780.mp4
+
+
 
 ### Test Status
 1. Usability Test
-2. Get feedback and make iteration Plan
+
+<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/3681670189260_.pic.jpg" width="540"></div>
+<div align=center><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/3681670189273_.pic.jpg" width="540"></div>
+
+
+---
+
+
+3. Get feedback and make iteration Plan
+
