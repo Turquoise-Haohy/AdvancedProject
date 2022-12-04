@@ -13,7 +13,7 @@ The process would be arrange as following:
 * Tools: MachineLearning(StyleGAN2), Unity(Vuforia), MapBox(GoMap), Blender
 * Resources: 
 
-**Link to Colab**
+**Link to StyleGAN3 Colab**
 <a href="https://colab.research.google.com/drive/1AE7N2gNOWuvaPkcjz6VAcDoYZ7inxdwC?usp=sharing">
 <img src="https://colab.research.google.com/assets/colab-badge.svg"
      alt="Open in Colab"
@@ -36,6 +36,9 @@ The process would be arrange as following:
 
 ### Design Status
 1. Using maps as dataset for machine training
+
+[githubLinkOfMapGAN](https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/StyleGan/MapGan.ipynb)
+
 2. Modeling prototypes in blender
 3. Test AR(Vuforia AR Foundation), Looking for method to embed maps in unity APP.
 4. Building UI/UX prototypes of my AR APP
