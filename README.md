@@ -80,6 +80,12 @@ https://user-images.githubusercontent.com/73295564/205515822-7d3746ff-8317-4990-
 
 2. Modeling prototypes in blender
 
+<div><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%206.png" width="360"></div>
+<div><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%207.png" width="360"></div>
+<div><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%208.png" width="360"></div>
+<div><img src="https://github.com/Turquoise-Haohy/AdvancedProject/blob/main/Results/Group%209.png" width="360"></div>
+
+---
 
 3. Test AR(Vuforia AR Foundation), Looking for method to embed maps in unity APP.
 4. Building UI/UX prototypes of my AR APP
