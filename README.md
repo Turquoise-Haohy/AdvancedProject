@@ -4,6 +4,9 @@
 
 https://user-images.githubusercontent.com/73295564/205515861-5ccc5d9d-1892-46b5-a94c-493c7c623047.mp4
 
+
+[GithubLinkOFTurbi'sFinalProject](https://github.com/Turquoise-Haohy/AdvancedProject.git)
+
 ---
 
 This is the final Advanced Project of Turbi. Here I conclude my one-year practitioning in psychogeography combining machine learning and poetic coding to build an AR experience.
