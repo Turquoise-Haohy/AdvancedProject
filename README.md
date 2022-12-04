@@ -4,7 +4,7 @@
 
 This is the final Advanced Project of Turbi. Here I conclude my one-year practitioning in psychogeography combining machine learning and poetic coding to build an AR experience.
 The process would be arrange as following: 
-* Planning Status( Data Collecting, 
+* Planning Status( BrainStorm, Information Collection, Resources Collection and filter)
 * Design Status
 * Test Status
 
@@ -15,6 +15,7 @@ The process would be arrange as following:
 ## Process
 ### Plannning Status
 1. Whiteboard BrainStorming
+
 2. Searching for related literature narration and Projects
 3. Collecting maps, based on which I construct my life, preparing for the poetic coding
 4. Filtering photos and looking for prototypes, recording my emotions and behaviors
